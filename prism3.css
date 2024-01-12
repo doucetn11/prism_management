@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prism Management - Furnished Rentals</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for additional styling -->
+    <style>
+        /* Reset some default styles and set a global font family */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Header styles */
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        /* Navigation styles */
+        nav {
+            background: #555;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav a {
+            text-decoration: none;
+            color: #fff;
+            font-weight: bold;
+        }
+
+        /* Main Content styles */
+        section {
+            padding: 40px;
+            text-align: center;
+        }
+
+        /* Property styles */
+        .property {
+            margin-bottom: 40px;
+            border: 1px solid #ddd;
+            padding: 20px;
+            border-radius: 8px;
+            background: #fff;
+        }
+
+        .property img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+
+        .property-link {
+            display: inline-block;
+            margin-top: 10px;
+            background: #333;
+            color: #fff;
+            padding: 10px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        /* Footer styles */
+        footer {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Your existing HTML content remains unchanged -->
+
+</body>
+</html>
